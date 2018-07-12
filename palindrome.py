@@ -19,6 +19,7 @@ def ispalindrome(word):
                 return False
 
 # Test
+#print(ispalindrome("amanaplanacanalpanama"))
 #print(ispalindrome("radar"))
 #print(ispalindrome("bob"))
 #print(ispalindrome("hello"))
